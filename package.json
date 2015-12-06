@@ -1,0 +1,14 @@
+{
+  "name": "simplest-express-server",
+  "version": "1.0.0",
+  "description": "A simple server to use with ansible testing playbooks",
+  "main": "index.js",
+  "scripts": {
+	"start":"node server.js"
+  },
+  "author": "Mario Castro <mariocaster@gmail.com> (http://mariocaster.blogspot.com)",
+  "license": "None",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
