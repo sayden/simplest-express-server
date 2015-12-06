@@ -4,11 +4,12 @@
   "description": "A simple server to use with ansible testing playbooks",
   "main": "index.js",
   "scripts": {
-	"start":"node server.js"
+    "start": "node server.js"
   },
   "author": "Mario Castro <mariocaster@gmail.com> (http://mariocaster.blogspot.com)",
   "license": "None",
   "dependencies": {
-    "express": "^4.13.3"
+    "express": "^4.13.3",
+    "pm2": "^0.15.10"
   }
 }
