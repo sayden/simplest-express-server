@@ -11,5 +11,10 @@
   "dependencies": {
     "express": "^4.13.3",
     "pm2": "^0.15.10"
-  }
+  },
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/sayden/simplest-express-server.git"
+  },
+  "license": "UNLICENSED"
 }
