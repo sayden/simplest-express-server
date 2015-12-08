@@ -2,7 +2,7 @@ var express = require('express');
 var app = express();
 
 app.get('/', function (req, res) {
-  res.send('Hello World Ansible from Docker!!!');
+  res.send('Hello World Ansible from Docker and CD!!!');
 });
 
 var server = app.listen(3000, function () {
